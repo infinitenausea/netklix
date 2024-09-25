@@ -61,7 +61,7 @@ body {
 .search-box {
     border-radius: 5px;
     background: rgb(255, 73, 73);
-    display:flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 3px;
