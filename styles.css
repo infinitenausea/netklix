@@ -95,7 +95,7 @@ body {
     cursor: pointer;
 }
 
-@media (max-device-width: 768px) {
+@media (max-width: 768px) {
     .header-controls {
         display: none;
     }
