@@ -56,7 +56,7 @@ body {
 .header-controls--mobile {
     display: none;
     align-self: flex-start;
-    cursor: pointer;
+
 }
 
 .search-box {
@@ -103,6 +103,7 @@ body {
 
     .header-controls--mobile {
         display: block;
+        cursor: pointer;
     }
 
     .search-box input {
