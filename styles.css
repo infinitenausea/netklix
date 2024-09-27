@@ -391,34 +391,34 @@ body {
     .content-film_info {
         width: 100%;
     }
+}
 
-    @media (max-width: 768px) {
-        .header-controls {
-            display: none;
-        }
-
-        .header-controls--mobile {
-            display: block;
-            cursor: pointer;
-        }
-
-        .search-box input {
-            padding: 0 15px;
-        }
-
-        .content-box {
-            flex-direction: column;
-        }
-
-        .content-sidebar {
-            width: 100%;
-        }
+@media (max-width: 768px) {
+    .header-controls {
+        display: none;
     }
 
-    @media (max-width: 480px) {
-        .content-cards_item {
-            width: 100%;
-            min-width: 100%;
-        }
+    .header-controls--mobile {
+        display: block;
+        cursor: pointer;
+    }
+
+    .search-box input {
+        padding: 0 15px;
+    }
+
+    .content-box {
+        flex-direction: column;
+    }
+
+    .content-sidebar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .content-cards_item {
+        width: 100%;
+        min-width: 100%;
     }
 }
