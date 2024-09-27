@@ -389,6 +389,7 @@ body {
 
     .content-film {
         flex-direction: column;
+        margin-bottom: 50px;
     }
 
     .content-film_img {
@@ -429,7 +430,4 @@ body {
         min-width: 100%;
     }
 
-    .content-film {
-        margin-bottom: 50px;
-    }
 }
