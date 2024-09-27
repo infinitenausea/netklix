@@ -24,9 +24,6 @@ body {
     align-items: center;
 }
 
-.header-logo a {
-    text-decoration: none;
-}
 
 .header-logo h1 {
     margin: 0;
@@ -34,6 +31,7 @@ body {
     font-size: 24px;
     font-weight: 700;
     line-height: 29px;
+    text-decoration: none;
 }
 
 .header-logo p {
@@ -42,6 +40,7 @@ body {
     font-size: 12px;
     font-weight: 300;
     line-height: 15px;
+    text-decoration: none;
 }
 
 .header-controls a {
