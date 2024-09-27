@@ -24,6 +24,10 @@ body {
     align-items: center;
 }
 
+.header-logo a {
+    text-decoration: none;
+}
+
 .header-logo h1 {
     margin: 0;
     font-family: Inter, sans-serif;
